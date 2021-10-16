@@ -39,7 +39,7 @@ namespace ConsoleApp1
 
             if (i < -10)
             {
-                Console.WriteLine("Функция не определена");//
+                Console.WriteLine("Функция не определена");
             }
             else if (i < -6)
             {

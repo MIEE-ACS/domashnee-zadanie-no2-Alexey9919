@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zagrebin_DZ2_new", "Zagrebin_DZ2_new\Zagrebin_DZ2_new.csproj", "{ADAEFA7E-C750-4FA6-9B79-D0EF6AE3F888}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zagrebin_dz_new", "Zagrebin_dz_new\Zagrebin_dz_new.csproj", "{3AEFDD77-8831-4436-A72F-0EAE7C46DBBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADAEFA7E-C750-4FA6-9B79-D0EF6AE3F888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADAEFA7E-C750-4FA6-9B79-D0EF6AE3F888}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADAEFA7E-C750-4FA6-9B79-D0EF6AE3F888}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADAEFA7E-C750-4FA6-9B79-D0EF6AE3F888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEFDD77-8831-4436-A72F-0EAE7C46DBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEFDD77-8831-4436-A72F-0EAE7C46DBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEFDD77-8831-4436-A72F-0EAE7C46DBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEFDD77-8831-4436-A72F-0EAE7C46DBBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {943F31A7-9A74-4EAA-96F5-21024763EC67}
+		SolutionGuid = {326A2ADC-5AF2-497A-8C33-277FBA1C205F}
 	EndGlobalSection
 EndGlobal
