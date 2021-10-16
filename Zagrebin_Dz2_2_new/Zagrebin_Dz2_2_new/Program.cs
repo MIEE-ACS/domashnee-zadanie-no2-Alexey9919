@@ -106,7 +106,7 @@ namespace ConsoleApp1
 
             while (in_value != 100)
             {
-                Console.WriteLine("Введите x (Если вы хотите посмотреть значения в виде таблицы, введите 100): ");
+                Console.WriteLine("Введите x (Если вы хотите посмотреть значения в виде таблицы, введите 100): ");//
                 in_value = double.Parse(Console.ReadLine());
                 if (in_value != 100)
                 {
